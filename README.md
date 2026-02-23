@@ -37,7 +37,7 @@
 ### **Path to Expert Tier:**
 - ✅ Competition #1 (S5E9): Top 48.3% - Foundation Laid
 - ✅ Competition #2 (S5E10): Top 23.5% - Skills Sharpened
-- ✅ Competition #3 (S5E11): Top 33.7% - Expertise Emerging  ← **YOU ARE HERE**
+- ✅ Competition #3 (S5E11): Top 33.7% - Expertise Emerging 
 
 ### **Path to Grandmaster:**
 - 🥇 Multiple Gold Medals Required
