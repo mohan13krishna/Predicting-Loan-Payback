@@ -38,9 +38,6 @@
 - ✅ Competition #1 (S5E9): Top 48.3% - Foundation Laid
 - ✅ Competition #2 (S5E10): Top 23.5% - Skills Sharpened
 - ✅ Competition #3 (S5E11): Top 33.7% - Expertise Emerging  ← **YOU ARE HERE**
-- 🎯 Competition #4 (S5E12): Top 20.8% - Diabetic Predictions
-- 🎯 Competition #5 (S6E1): Top 22.4% - Student Test Scores
-- 🏆 Competition #6 (S6E2): Podium Target - Heart Disease
 
 ### **Path to Grandmaster:**
 - 🥇 Multiple Gold Medals Required
@@ -48,14 +45,11 @@
 - 👑 Solo & Team Competition Mastery
 - 💪 Years of Dedication & Learning
 
-**Current Mission:** Achieve Expert Status in Kaggle  
-**Ultimate Vision:** Grandmaster By 2027
-
 ---
 
 ## 🔥 TEAM PHOENIX ALGORITHMS - THIRD STRIKE SUCCESS
 
-Three competitions down, and we're getting dangerously good. This time? **AutoML Mastery + Advanced Ensembling = Top 33.7%!** We've unlocked a new level: the power of automated machine learning combined with strategic ensemble techniques. The momentum continues as we move into competitions 4, 5, and 6 with growing expertise!
+Three competitions down, and we're getting dangerously good. This time? **AutoML Mastery + Advanced Ensembling = Top 33.7%!** We've unlocked a new level: the power of automated machine learning combined with strategic ensemble techniques. The momentum continues as we move forward with growing expertise!
 
 ### 👥 THE ELITE SQUAD
 
@@ -193,7 +187,7 @@ We analyzed and engineered features across multiple dimensions:
 
 ---
 
-## 🛠️ **THE ARSENAL - COMPETITION #4**
+## 🛠️ **THE ARSENAL - COMPETITION #3**
 
 ### 🔄 **FROM FOUNDATIONS TO MASTERY 3.0**
 
@@ -260,7 +254,7 @@ We analyzed and engineered features across multiple dimensions:
    - More reliable CV estimates
 
 6. **Team Experience Multiplication** 📈
-   - 4th competition carries 3x learning
+   - 3rd competition carries 2x learning
    - Faster experimentation cycles
    - Better intuition on what works
    - Lessons compound: 48% → 23.5% → 33.7%
@@ -303,10 +297,14 @@ Lessons Applied: All previous 3 competitions
 ```
 Competition #1 (S5E9):  Top 48.3% → Learning phase
 Competition #2 (S5E10): Top 23.5% → Optimization mastery
-Competition #3 (S5E8):  Top 33.7% → Plateau reached, but growing
-Competition #4 (S5E11): Top 33.7% → AutoML unlocked
-Competition #5 (???):   Top 10%?   → Expert tier target
+Competition #3 (S5E11): Top 33.7% → AutoML unlocked (still climbing!)
 ```
+
+---
+
+## 💬 **A NOTE ON THE JOURNEY**
+
+> We didn't win this competition — and that's okay. Top 33.7% in a field of 3,724 teams is no small feat, especially for a squad still sharpening its tools. We slipped back slightly from our S5E10 peak of 23.5%, but every version we tested, every model we stacked, and every AutoML experiment we ran taught us something new. Progress isn't always linear. What matters is that we showed up, pushed limits, and came out knowing more than when we started. The climb continues. 🚀
 
 ---
 
@@ -377,14 +375,14 @@ Status: EDUCATIONAL EXCELLENCE
 
 ## 📈 **BY THE NUMBERS - COMPETITION PROGRESSION**
 
-| Metric | S5E9 | S5E10 | S5E8 | S5E11 | Trend |
-|--------|------|-------|------|-------|-------|
-| 🏅 **Rank** | 1246/2581 | 960/4082 | TBD | 1255/3724 | ↗️ Growing |
-| 📊 **Percentile** | 48.3% | 23.5% | TBD | 33.7% | ↗️ Improving |
-| 🎯 **Score** | 26.388 | 0.0555 | TBD | 0.9238 | ✅ Different metrics |
-| 🚀 **Versions Tested** | 15 | 29 | TBD | 20 | → Consistent effort |
-| 💻 **Models Trained** | 50+ | 60+ | TBD | 100+ | ↗️ Exponential learning |
-| 🔥 **Advanced Techniques** | Basic Trees | Optuna Opt | TBD | AutoML | ↗️ Innovation |
+| Metric | S5E9 | S5E10 | S5E11 | Trend |
+|--------|------|-------|-------|-------|
+| 🏅 **Rank** | 1246/2581 | 960/4082 | 1255/3724 | ↗️ Growing |
+| 📊 **Percentile** | 48.3% | 23.5% | 33.7% | ↗️ Improving |
+| 🎯 **Score** | 26.388 | 0.0555 | 0.9238 | ✅ Different metrics |
+| 🚀 **Versions Tested** | 15 | 29 | 20 | → Consistent effort |
+| 💻 **Models Trained** | 50+ | 60+ | 100+ | ↗️ Exponential learning |
+| 🔥 **Advanced Techniques** | Basic Trees | Optuna Opt | AutoML | ↗️ Innovation |
 
 ### **Key Achievements This Competition**
 - ✅ **Discovered AutoML as game-changer** - 0.92380 public score
@@ -452,7 +450,7 @@ Status: EDUCATIONAL EXCELLENCE
 
 # ⚡ THE EXPERT TIER AWAITS ⚡
 
-## *"Competition #1: Top 48% | Competition #2: Top 23% | Competition #3: Top 33% | Competition #4: ???"*
+## *"Competition #1: Top 48% | Competition #2: Top 23% | Competition #3: Top 33% | What's Next?"*
 
 ### 🏆 TEAM PHOENIX ALGORITHMS 🏆
 
@@ -470,9 +468,6 @@ Status: EDUCATIONAL EXCELLENCE
 🔥 S5E9:  Top 48.3% → Beats-per-Minute (Foundation)
 🚀 S5E10: Top 23.5% → Road Accident Risk (Breakthrough)
 ⚡ S5E11: Top 33.7% → Loan Payback (AutoML Mastery) ← YOU ARE HERE
-🎯 S5E12: Top 20.8% → Diabetes Prediction (Post-competition)
-📊 S6E1:  Top 22.4% → Student Test Scores (Current)
-👑 S6E2:  TBD      → Heart Disease (Latest)
 ```
 
 ---
