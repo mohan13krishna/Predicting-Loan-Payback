@@ -4,7 +4,7 @@
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S5E11-20BEFF?style=for-the-badge&logo=kaggle)
 ![Rank](https://img.shields.io/badge/RANK-1255%2F3724-FF6B6B?style=for-the-badge)
-![Score](https://img.shields.io/badge/Best%20Score-0.05557%20%2F%200.05500-00D9FF?style=for-the-badge)
+![Score](https://img.shields.io/badge/Best%20Score-0.92380-00D9FF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)
 
 ### ⚡ **TOP 33.7% - THE JOURNEY ACCELERATES!** ⚡
