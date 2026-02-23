@@ -104,7 +104,7 @@ Three competitions down, and we're getting dangerously good. This time? **AutoML
 
 **Objective:** Predict the probability that a borrower will pay back their loan  
 **Challenge:** Kaggle Playground Series - Season 5, Episode 11  
-**Duration:** November 1 - December 1, 2025 (Late Submission)  
+**Duration:** November 1 - November 30, 2025  
 **Metric:** ROC-AUC Score (Area Under the Receiver Operating Characteristic Curve)  
 **Dataset Size:** 593,994 training samples | 256,065 test samples  
 **Ultimate Goal:** Expert → Master Status on Kaggle  
@@ -118,7 +118,7 @@ Three competitions down, and we're getting dangerously good. This time? **AutoML
 - **Best Public Score:** 🎯 **0.92380**
 - **Best Private Score:** 🔒 **0.92304**
 - **Total Versions Explored:** 🚀 **20 Strategic Iterations**
-- **Competition Ended:** 3 months ago (December 1, 2025)
+- **Competition Ended:** November 30, 2025
 
 ### 🏆 **OUR TOP PERFORMING SOLUTIONS**
 
@@ -270,7 +270,7 @@ Day 9-15:  Single model optimization (LGB, CatBoost, XGB)
 Day 16-20: Ensemble strategy testing
 Day 21-25: AutoGluon experimentation & discovery
 Day 26-30: Fine-tuning & optimization
-Day 31+:   Late submission with polished solution
+Day 31:    Final submissions & wrap-up
 
 Total Models Trained: 100+
 Total Versions: 20
@@ -400,7 +400,7 @@ Status: EDUCATIONAL EXCELLENCE
 **Title:** Predicting Loan Payback  
 **Type:** Binary Classification (Tabular)  
 **Start:** November 1, 2025  
-**End:** December 1, 2025 (Late Submissions Open)  
+**End:** November 30, 2025  
 **Metric:** ROC-AUC Score (Higher is Better)  
 **Team Mission:** Building expertise toward Kaggle Expert/Master status  
 **Dataset Origin:** Synthetically generated using deep learning model trained on Loan Prediction dataset  
@@ -474,7 +474,7 @@ Status: EDUCATIONAL EXCELLENCE
 
 *The phoenix ascends higher with each flight. Expert within reach. Grandmaster in sight.* ⭐
 
-**[Competition Link](https://www.kaggle.com/competitions/playground-series-s5e11)** | **November-December 2025** | **#TeamPhoenixAlgorithms**
+**[Competition Link](https://www.kaggle.com/competitions/playground-series-s5e11)** | **November 2025** | **#TeamPhoenixAlgorithms**
 
 ### 🎖️ **On The Path to Expert & Grandmaster Status** 🎖️
 
@@ -483,6 +483,6 @@ Status: EDUCATIONAL EXCELLENCE
 **Repository:** [Predicting-Loan-Payback](https://github.com/mohan13krishna/Predicting-Loan-Payback)  
 **Best Score:** 0.92380 / 0.92304  
 **Final Rank:** 1255 / 3724 (Top 33.7%)  
-**Status:** 🎯 Active Competition (Late Submissions)
+**Status:** ✅ Competition Completed (November 2025)
 
 </div>
